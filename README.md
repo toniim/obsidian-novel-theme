@@ -2,7 +2,7 @@
 
 > A warm, paper-like reading experience for writers, researchers, and thinkers.
 
-![Novel Theme Preview](screenshot.png)
+![Novel Theme Preview](screenshot-large.png)
 
 ---
 
