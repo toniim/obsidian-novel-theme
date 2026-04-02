@@ -53,12 +53,12 @@ Whether you're drafting long-form writing, building a personal knowledge base, o
 
 ## Fonts
 
-Novel uses Google Fonts loaded via `@import`. An internet connection is required on first load. If you're offline, the theme gracefully falls back to:
+The Novel theme strictly respects your privacy and works completely offline. 
 
-- **Body/Headings:** Georgia (serif)
-- **Code:** Fira Code → monospace
+The custom fonts used in this theme are optimally encoded in Base64 and natively bundled into the theme file. You do not need an internet connection or extra installations to use them!
 
-To use fonts locally, install [Merriweather](https://fonts.google.com/specimen/Merriweather) and [JetBrains Mono](https://www.jetbrains.com/legalnotice/fonts/) on your system and remove the `@import` line from the theme.
+- **Body/Headings:** Merriweather (embedded), gracefully falls back to Georgia (serif)
+- **Code:** JetBrains Mono (embedded), gracefully falls back to Fira Code → monospace
 
 ---
 
