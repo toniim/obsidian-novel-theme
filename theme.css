@@ -1,11 +1,9 @@
 /* Novel Theme */
 
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
-
 /* ── Core Variables ── */
 .theme-light,
 .theme-dark {
-    --font-text: 'Merriweather', Georgia, serif !important;
+    --font-text: 'Merriweather', Georgia, serif;
     --font-monospace: 'JetBrains Mono', 'Fira Code', monospace;
 }
 
