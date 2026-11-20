@@ -2,6 +2,8 @@
 
 > A warm, paper-like reading experience for writers, researchers, and thinkers.
 
+**Install from the Obsidian theme store: [community.obsidian.md/themes/novel](https://community.obsidian.md/themes/novel)**
+
 ![Novel Theme Preview](screenshot-large.png)
 
 ---
@@ -37,6 +39,8 @@ Whether you're drafting long-form writing, building a personal knowledge base, o
 ## Installation
 
 ### Via Community Themes (Recommended)
+
+Novel is listed in the Obsidian theme store: [open the Novel page](https://community.obsidian.md/themes/novel), or install it from inside Obsidian:
 
 1. Open **Settings → Appearance → Themes**
 2. Click **Manage**
